@@ -2475,3 +2475,8 @@ footer#footer {
 .client-holder{
   background-color: #ffffff5d 
 }
+.qrcode-monkey{
+  margin: 0 auto;
+  margin-top: 50px;
+ width: 200px; 
+}
